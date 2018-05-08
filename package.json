@@ -1,5 +1,5 @@
 {
-  "name": "test-libary",
+  "name": "test-lib",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silltho/test-libary.git"
+    "url": "git+https://github.com/silltho/test-lib.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/silltho/test-libary/issues"
+    "url": "https://github.com/silltho/test-lib/issues"
   },
   "sideEffects": false,
-  "homepage": "https://github.com/silltho/test-libary#readme",
+  "homepage": "https://github.com/silltho/test-lib#readme",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-loader": "^7.1.4",
