@@ -1,9 +1,10 @@
 import a from './a'
 import b from './b'
-import c from './c'
+import c, {obj} from './c'
 
 export {
   a,
   b,
-  c
+  c,
+  obj
 }
