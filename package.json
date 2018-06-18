@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/silltho/test-lib/issues"
   },
-  "sideEffects": false,
   "homepage": "https://github.com/silltho/test-lib#readme",
   "devDependencies": {
     "babel": "^6.23.0",

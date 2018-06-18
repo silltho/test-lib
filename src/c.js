@@ -1,3 +1,9 @@
-console.log('a')
+console.log('c')
 
-export default 'a'
+let obj = {}
+
+Object.defineProperty(obj, 'test', {
+  value: 'objc'
+})
+
+export default 'c'

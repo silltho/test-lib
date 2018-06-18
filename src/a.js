@@ -1,3 +1,3 @@
-console.log('c')
+console.log('a')
 
-export default 'c'
+export default 'a'
