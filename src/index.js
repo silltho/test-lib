@@ -1,6 +1,6 @@
-import a from 'a'
-import b from 'b'
-import c from 'c'
+import a from './a'
+import b from './b'
+import c from './c'
 
 export default {
     a,
