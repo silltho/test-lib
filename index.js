@@ -1,6 +1,6 @@
-import a from './src/a'
-import b from './src/b'
-import c from './src/c'
+import a from './a'
+import b from './b'
+import c from './c'
 
 export default {
     a,
