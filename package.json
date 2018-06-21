@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/main.js",
   "module": "src/index.js",
-  "sideEffects": ["b.js"],
+  "sideEffects": ["b"],
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
