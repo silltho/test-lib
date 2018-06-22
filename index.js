@@ -12,3 +12,11 @@ export {
   e,
   obj
 }
+
+export default {
+  a,
+  b: d,
+  c,
+  e,
+  obj
+}
