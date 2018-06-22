@@ -1,5 +1,5 @@
 import a from './a'
-import b from './b'
+import { d } from './b'
 import { e } from './e'
 import c, {obj} from './c'
 
@@ -7,7 +7,7 @@ console.log('index file sideeffect')
 
 export {
   a,
-  b,
+  d as b,
   c,
   e,
   obj
